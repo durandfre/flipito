@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>flipito</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.aptana.ide.core.unifiedBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.radrails.rails.core.railsnature</nature>
+		<nature>com.aptana.ruby.core.rubynature</nature>
+	</natures>
+	<variableList>
+		<variable>
+			<name>RAILS_HOME</name>
+			<value>file:/C:/RailsInstaller/Ruby1.8.7/bin</value>
+		</variable>
+	</variableList>
+</projectDescription>
